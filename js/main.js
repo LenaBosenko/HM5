@@ -1,0 +1,5 @@
+let firstNumInColumn = +prompt ('Enter the number')
+let secondtNumInColumn = +prompt ('Enter the number')
+let thirdNumInColumn = +prompt ('Enter the number')
+let result = ((firstNumInColumn+secondtNumInColumn+thirdNumInColumn)/3)
+alert (result)
